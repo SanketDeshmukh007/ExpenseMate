@@ -1,0 +1,242 @@
+🎯 Running Expense Tracker!
+1. Add an expense
+2. Summarize expenses
+3. Exit
+Enter your choice: 1
+🎯 Getting User Expense
+Enter expense name: Recharge
+Enter expense amount: ₹300
+Categories List: 
+1. 🍔 Food
+- Groceries - Restaurants - Coffee Shops - Fast Food
+2. 💡 Utilities
+- Electricity - Water - Gas - Recharge
+3. 🚌 Transportation
+- Public Transport - Fuel - Parking
+4. 🩺 Healthcare
+- Doctor Visits - Medications - Dental Care
+5. 🎉 Entertainment
+- Movies - Concerts - Subscriptions (Netflix, Spotify) - Sports Events
+6. 📚 Education
+- Tuition Fees - Books - Online Courses - School Supplies
+7. 🛀 Personal Care
+- Haircuts - Beauty Products - Gym Memberships - Spa
+8. 🛍️ Shopping
+- Clothing - Electronics - Gifts - Home Decor
+9. ✈️ Travel
+- Hotels - Car Rentals - Vacation Packages
+10. 🤝 Charity & Donations
+- Donations to Charities - Fundraising Events
+11. ✨ Miscellaneous
+- Any other expenses not covered by the above categories
+
+Choose expense category from the above list: Utilities
+Enter expense payment method (e.g., Cash, Credit Card): UPI
+Enter expense description: Monthly mobile recharge for my Jio number.
+✅ Expense Added Successfully!
+
+1. Add an expense
+2. Summarize expenses
+3. Exit
+Enter your choice: 1
+🎯 Getting User Expense
+Enter expense name: Haircut
+Enter expense amount: ₹100
+Categories List:
+1. 🍔 Food
+- Groceries - Restaurants - Coffee Shops - Fast Food
+2. 💡 Utilities
+- Electricity - Water - Gas - Recharge
+3. 🚌 Transportation
+- Public Transport - Fuel - Parking
+4. 🩺 Healthcare
+- Doctor Visits - Medications - Dental Care
+5. 🎉 Entertainment
+- Movies - Concerts - Subscriptions (Netflix, Spotify) - Sports Events
+6. 📚 Education
+- Tuition Fees - Books - Online Courses - School Supplies
+7. 🛀 Personal Care
+- Haircuts - Beauty Products - Gym Memberships - Spa
+8. 🛍️ Shopping
+- Clothing - Electronics - Gifts - Home Decor
+9. ✈️ Travel
+- Hotels - Car Rentals - Vacation Packages
+10. 🤝 Charity & Donations
+- Donations to Charities - Fundraising Events
+11. ✨ Miscellaneous
+- Any other expenses not covered by the above categories
+
+Choose expense category from the above list: Personal Care
+Enter expense payment method (e.g., Cash, Credit Card): UPI
+Enter expense description: Haircut at Image Salon
+✅ Expense Added Successfully!
+
+1. Add an expense
+2. Summarize expenses
+3. Exit
+Enter your choice: 1
+🎯 Getting User Expense
+Enter expense name: Notebooks
+Enter expense amount: ₹300
+Categories List:
+1. 🍔 Food
+- Groceries - Restaurants - Coffee Shops - Fast Food
+2. 💡 Utilities
+- Electricity - Water - Gas - Recharge
+3. 🚌 Transportation
+- Public Transport - Fuel - Parking
+4. 🩺 Healthcare
+- Doctor Visits - Medications - Dental Care
+5. 🎉 Entertainment
+- Movies - Concerts - Subscriptions (Netflix, Spotify) - Sports Events
+6. 📚 Education
+- Tuition Fees - Books - Online Courses - School Supplies
+7. 🛀 Personal Care
+- Haircuts - Beauty Products - Gym Memberships - Spa
+8. 🛍️ Shopping
+- Clothing - Electronics - Gifts - Home Decor
+9. ✈️ Travel
+- Hotels - Car Rentals - Vacation Packages
+10. 🤝 Charity & Donations
+- Donations to Charities - Fundraising Events
+11. ✨ Miscellaneous
+- Any other expenses not covered by the above categories
+
+Choose expense category from the above list: Education
+Enter expense payment method (e.g., Cash, Credit Card): Cash
+Enter expense description: 6 Notebooks Purchased - ₹50 Each
+✅ Expense Added Successfully!
+
+1. Add an expense
+2. Summarize expenses
+3. Exit
+Enter your choice: 1
+🎯 Getting User Expense
+Enter expense name: Petrol
+Enter expense amount: ₹100
+Categories List:
+1. 🍔 Food
+- Groceries - Restaurants - Coffee Shops - Fast Food
+2. 💡 Utilities
+- Electricity - Water - Gas - Recharge
+3. 🚌 Transportation
+- Public Transport - Fuel - Parking
+4. 🩺 Healthcare
+- Doctor Visits - Medications - Dental Care
+5. 🎉 Entertainment
+- Movies - Concerts - Subscriptions (Netflix, Spotify) - Sports Events
+6. 📚 Education
+- Tuition Fees - Books - Online Courses - School Supplies
+7. 🛀 Personal Care
+- Haircuts - Beauty Products - Gym Memberships - Spa
+8. 🛍️ Shopping
+- Clothing - Electronics - Gifts - Home Decor
+9. ✈️ Travel
+- Hotels - Car Rentals - Vacation Packages
+10. 🤝 Charity & Donations
+- Donations to Charities - Fundraising Events
+11. ✨ Miscellaneous
+- Any other expenses not covered by the above categories
+
+Choose expense category from the above list: Transportation
+Enter expense payment method (e.g., Cash, Credit Card): Credit Card
+Enter expense description: Hang out with friends
+✅ Expense Added Successfully!
+
+1. Add an expense
+2. Summarize expenses
+3. Exit
+Enter your choice: 1
+🎯 Getting User Expense
+Enter expense name: Mess Bill
+Enter expense amount: ₹2400
+Categories List:
+1. 🍔 Food
+- Groceries - Restaurants - Coffee Shops - Fast Food
+2. 💡 Utilities
+- Electricity - Water - Gas - Recharge
+3. 🚌 Transportation
+- Public Transport - Fuel - Parking
+4. 🩺 Healthcare
+- Doctor Visits - Medications - Dental Care
+5. 🎉 Entertainment
+- Movies - Concerts - Subscriptions (Netflix, Spotify) - Sports Events
+6. 📚 Education
+- Tuition Fees - Books - Online Courses - School Supplies
+7. 🛀 Personal Care
+- Haircuts - Beauty Products - Gym Memberships - Spa
+8. 🛍️ Shopping
+- Clothing - Electronics - Gifts - Home Decor
+9. ✈️ Travel
+- Hotels - Car Rentals - Vacation Packages
+10. 🤝 Charity & Donations
+- Donations to Charities - Fundraising Events
+11. ✨ Miscellaneous
+- Any other expenses not covered by the above categories
+
+Choose expense category from the above list: Food
+Enter expense payment method (e.g., Cash, Credit Card): Credit Card
+Enter expense description: Monthly mess bill paid
+✅ Expense Added Successfully!
+
+1. Add an expense
+2. Summarize expenses
+3. Exit
+Enter your choice: 2
+Enter month number (1-12): 7
+1. Get all expenses
+2. Print amount spent category-wise
+3. Print amount spent by payment method
+4. Total amount spent
+5. Exit
+Enter your choice: 1
+All Expenses:
++----+-----------+-----------+----------------+----------------+--------------------------------------------+---------------------+
+| ID |    Name   | Amount(₹) |    Category    | Payment Method |                Description                 |      Timestamp      |
++----+-----------+-----------+----------------+----------------+--------------------------------------------+---------------------+
+| 1  |  Recharge |    300    |   Utilities    |      UPI       | Monthly mobile recharge for my Jio number. | 2024-07-06 15:51:00 |
+| 2  |  Haircut  |    100    | Personal Care  |      UPI       |           Haircut at Image Salon           | 2024-07-06 15:52:57 |
+| 3  | Notebooks |    300    |   Education    |      Cash      |      6 Notebooks Purchased - ₹50 Each      | 2024-07-06 15:55:01 |
+| 4  |   Petrol  |    100    | Transportation |  Credit Card   |           Hang out with friends            | 2024-07-06 15:58:31 |
+| 5  | Mess Bill |    2400   |      Food      |  Credit Card   |           Monthly mess bill paid           | 2024-07-06 15:59:44 |
++----+-----------+-----------+----------------+----------------+--------------------------------------------+---------------------+
+1. Get all expenses
+2. Print amount spent category-wise
+3. Print amount spent by payment method
+4. Total amount spent
+5. Exit
+Enter your choice: 2
+Expenses By Category 📈:
+  Utilities: ₹300
+  Personal Care: ₹100
+  Education: ₹300
+  Transportation: ₹100
+  Food: ₹2400
+1. Get all expenses
+2. Print amount spent category-wise
+3. Print amount spent by payment method
+4. Total amount spent
+5. Exit
+Enter your choice: 3
+Expenses By Payment Method 💳:
+  UPI: ₹400
+  Cash: ₹300
+  Credit Card: ₹2500
+1. Get all expenses
+2. Print amount spent category-wise
+3. Print amount spent by payment method
+4. Total amount spent
+5. Exit
+Enter your choice: 4
+💵 Total Spent: ₹3200
+1. Get all expenses
+2. Print amount spent category-wise
+3. Print amount spent by payment method
+4. Total amount spent
+5. Exit
+Enter your choice: 5
+1. Add an expense
+2. Summarize expenses
+3. Exit
+Enter your choice: 3
+Thank you for using the Expense Tracker Application! 🙏
